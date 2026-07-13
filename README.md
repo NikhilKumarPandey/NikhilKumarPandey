@@ -1,2 +1,1 @@
-- 👋 Hello, I am Robert Smith
-- 
+- 👋 Hello, 
